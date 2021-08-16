@@ -22,30 +22,14 @@
 ├── laboratory
 │   ├── answer
 │   │   ├── lb1
-│   │   ├── lb2
-│   │   ├── lb3
-│   │   ├── lb4
-│   │   ├── lb5
-│   │   ├── lb6
-│   │   ├── lb7
+│   │   │   . . .
 │   │   └── lb8
 │   └── question
 │       └── training_manual
 └── practice
     ├── 1lvl
     │   └── condition
-    ├── 2lvl
-    │   └── condition
-    ├── 3lvl
-    │   └── condition
-    ├── 4lvl
-    │   └── condition
-    ├── 5lvl
-    │   └── condition
-    ├── 6lvl
-    │   └── condition
-    ├── 7lvl
-    │   └── condition
+    │   . . .
     └── 8lvl
         └── condition
 ----
