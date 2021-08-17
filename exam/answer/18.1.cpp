@@ -3,12 +3,11 @@ int main()
     int** a;
     int i, j, k, n;
     scanf_s("%d", &n);
-a = for
-{
-    (int**)malloc(n * sizeof(int*));
-    (i = 0; i < n; i++)
+    a = (int**)malloc(n * sizeof(int*));
+    for(i = 0; i < n; i++)
+    {
         a[i] = (int*)malloc(n * sizeof(int));
-}
+    }
 for(i = 0; i < n; i++)
 {
     for (j = 0; j < n; j++)
