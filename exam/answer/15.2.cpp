@@ -4,17 +4,14 @@ int main()
     char** a;
     int i, j, n;
     scanf_s("%d", &n);
-a = for
-{
-    (char**)malloc(n * sizeof(char**));
-    (i = 0; i < n; i++)
-        a[i]
-        = (char*)malloc(1 * sizeof(char*));
-}
-j = for
-{
-    0;
-    (i = 0; i < n; i++)
+a =(char**)malloc(n * sizeof(char**));
+
+    for(i = 0; i < n; i++) 
+    {
+        a[i] = (char*)malloc(1 * sizeof(char*));
+    }
+j = 0
+    for(i = 0; i < n; i++) {
         rewind(stdin);
     while ((a[i][j++] = getchar()) != '\n') {
         a[i] = (char*)realloc(a[i], j + 1);
