@@ -8,24 +8,24 @@
 
 == Struct 
 ----
+.
 ├── LICENSE
-├── README.md
+├── README.adoc
 ├── exam
 │   ├── answer
-│   │   ├── 01.1
-│   │   ├── 01.2
+│   │   ├── 01.1.cpp
+│   │   ├── 01.2.cpp
 │   │   │   . . .
-│   │   ├── 40.1
-│   │   └── 40.2
+│   │   └── 40.2.cpp
 │   └── question
 │       └── condition
 ├── laboratory
 │   ├── answer
 │   │   ├── lb1
-│   │   │   . . .
-│   │   └── lb8
+│   │   │   . . . 
+│   │   └── lb8
 │   └── question
-│       └── training_manual
+│       └── Laboratorny_praktikum_OAiP_ch_1.pdf
 └── practice
     ├── 1lvl
     │   └── condition
@@ -33,3 +33,6 @@
     └── 8lvl
         └── condition
 ----
+
+Репозиторий в работе, задачи будут публиковаться
+=== Связь со мной https://vk.com/dyubzi
