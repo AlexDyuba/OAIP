@@ -13,6 +13,7 @@ int main()
     while (a[i]) {
         printf("%c", a[i++]);
     }
+}
     char* func(double drob, int ss)
     {
         static int n;
